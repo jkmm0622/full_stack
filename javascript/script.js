@@ -10,9 +10,7 @@ document.addEventListener("scroll", function () {
         if (!navbar.classList.contains('nav-color')) {
             navbar.classList.add('nav-color');
         }
-
         navbar_h1.style.color = 'black';
-
         if(navbar_ul){
             for(let i=0 ; i<navbar_ul.length ; i++){
                 navbar_ul[i].style.color = 'Black';
@@ -20,12 +18,9 @@ document.addEventListener("scroll", function () {
         }
     }   
     else {
-        
-        
         if (navbar.classList.contains('nav-color')) {
             navbar.classList.remove('nav-color');
         }
-
         navbar_h1.style.color = 'white';
 
         if(navbar_ul){
