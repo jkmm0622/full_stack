@@ -1,3 +1,3 @@
-#Basic Command Everyonde Should Know \n
-⭕ - Open REPEL = Type "node" in cmd
+#Basic Command Everyonde Should Know <br />
+⭕ - Open REPEL = Type "node" in cmd <br />
 ⭕ - 
