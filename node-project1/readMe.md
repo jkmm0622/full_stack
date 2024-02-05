@@ -1,1 +1,3 @@
-Open REPEL = Type "node" in cmd
+#Basic Command Everyonde Should Know
+⭕ - Open REPEL = Type "node" in cmd
+⭕ - 
