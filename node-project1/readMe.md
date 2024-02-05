@@ -18,3 +18,16 @@
 <li>process = info about env where the program is being executed</li>
 </ul>
 
+⭕ Modules <br />
+<p>CommonJS, every file is module (by default) </p>
+
+<p>Modules - Encapsulated code (only share minimum) </p>
+
+<h3>Built-in Modules
+<ul>
+<li>OS</li>
+<li>PATH</li>
+<li>FS</li>
+<li>HTTP</li>
+</ul>
+
