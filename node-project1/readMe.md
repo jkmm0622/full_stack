@@ -25,7 +25,7 @@
 
 <h4>Built-in Modules</h4>
 <ul>
-<li>OS</li>
+<li>os</li>
 <li>PATH</li>
 <li>FS</li>
 <li>HTTP</li>
