@@ -1,4 +1,4 @@
-⭕ Basic Command Everyone Should Know <br />
+⭕ <h3>Basic Command Everyone Should Know</h3> <br />
 <ul>
     <li>  <strong>Open REPEL</strong> = Type <strong>node</strong> in cmd </li>
     <li>  <strong>Close REPEL</strong> = Hit two times <strong> ctrl + c </strong> </li>
@@ -9,7 +9,7 @@
     <li> <strong>Change Directory</strong> = cd filename</li>
 </ul>
 
-⭕ Global Variable <br />
+⭕ <h3>Global Variable</h3> <br />
 <ul>
 <li>__dirname = Path to current dictory</li>
 <li>__filename = filename</li>
@@ -18,12 +18,12 @@
 <li>process = info about env where the program is being executed</li>
 </ul>
 
-⭕ Modules <br />
+⭕ <h3>Modules</h3> <br />
 <p>CommonJS, every file is module (by default) </p>
 
 <p>Modules - Encapsulated code (only share minimum) </p>
 
-<h3>Built-in Modules</h3>
+<h4>Built-in Modules</h4>
 <ul>
 <li>OS</li>
 <li>PATH</li>
