@@ -9,4 +9,12 @@
     <li> <strong>Change Directory</strong> = cd filename</li>
 </ul>
 
+⭕ Global Variable <br />
+<ul>
+<li>__dirname = Path to current dictory</li>
+<li>__filename = filename</li>
+<li>require = function to use modules (CommonJS) </li>
+<li>module = info about current module</li>
+<li>process = info about env where the program is being executed</li>
+</ul>
 
