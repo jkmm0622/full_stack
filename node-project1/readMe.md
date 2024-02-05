@@ -1,4 +1,4 @@
-⭕ <h3>Basic Command Everyone Should Know</h3> <br />
+⭕ <h3 style="display:inline-block;">Basic Command Everyone Should Know</h3> <br />
 <ul>
     <li>  <strong>Open REPEL</strong> = Type <strong>node</strong> in cmd </li>
     <li>  <strong>Close REPEL</strong> = Hit two times <strong> ctrl + c </strong> </li>
