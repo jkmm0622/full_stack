@@ -40,7 +40,8 @@
 <h3>⭕ NPM - Node Package Manager</h3> <br />
 <p>Reference - https://www.npmjs.com/ </p>
 <p>Check Version - Type <strong>npm --v</strong> </p>
-<h4>▶Dependency</h4>
+<p>Run Script - Type <strong>npm run cmd_name</strong> </p>
+<h4>▶Install Dependency</h4>
 <ul>
 <li><strong>Local(dependencies)</strong> - Use it only in this particular project <br/> 
 <p><strong>npm i/install</strong> package_name = install package & save in <strong>dependencies</strong>  in package.json</p> 
@@ -52,6 +53,16 @@
 <p><strong>npm i/install -g </strong>package_name </p>
 </li>
 </ul>
+
+<h4>▶Uninstall Dependency</h4>
+<ol>
+<li>By NPM - Type <strong>npm uninstall</strong>pacakage_name </li>
+<li>Manual<br/> 
+    <p>1. First delete node_modules folder</p>
+    <p>2. Second delete package-lock.json file</p>
+    <p>3. Third delete that package from package.json manually</p>
+</li>
+</ol>
 
 <h4>▶package.json</h4>
 <p>This is a manifest file (stores important info about project/package)</p>
