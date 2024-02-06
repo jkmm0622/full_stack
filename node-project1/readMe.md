@@ -56,11 +56,11 @@
 <h4>▶package.json</h4>
 <p>This is a manifest file (stores important info about project/package)</p>
 
-<h5>▶Creation - Manual</h5>
+<h5>Creation - Manual</h5>
 <p>Create a file with name "package.json" in the root,
 create properties etc</p>
 
-<h5>▶Creation - By NPM</h5>
+<h5>Creation - By NPM</h5>
 <ol>
 <li><strong>npm init</strong> = ( step by step, press enter to skip)</li>
 <li><strong>npm init -y</strong> = ( everything default ) </li>
