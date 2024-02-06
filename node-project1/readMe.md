@@ -24,10 +24,21 @@
 <p>Modules - Encapsulated code (only share minimum) </p>
 
 <h4>Built-in Modules</h4>
+
 <ul>
-<li>os</li>
-<li>PATH</li>
-<li>FS</li>
-<li>HTTP</li>
+
+<li>os - gives the info of local machine where backend is ruuning</li>
+
+<li>path - gives the info of absoulte path where app is ruuning</li>
+
+<li>fs</li>
+
+<li>http</li>
+
 </ul>
+
+<h3>⭕ NPM - Node Package Manager</h3> <br />
+<p>Reference - https://www.npmjs.com/ </p>
+
+
 
