@@ -41,6 +41,20 @@
 <p>Reference - https://www.npmjs.com/ </p>
 <p>Check Version - Type <strong>npm --v</strong> </p>
 <p>Run Script - Type <strong>npm run cmd_name</strong> </p>
+
+<h4>▶package.json</h4>
+<p>This is a manifest file (stores important info about project/package)</p>
+
+<h5>Creation - Manual</h5>
+<p>Create a file with name "package.json" in the root,
+create properties etc</p>
+
+<h5>Creation - By NPM</h5>
+<ol>
+<li><strong>npm init</strong> = ( step by step, press enter to skip)</li>
+<li><strong>npm init -y</strong> = ( everything default ) </li>
+<ol>
+
 <h4>▶Install Dependency</h4>
 <ul>
 <li><strong>Local(dependencies)</strong> - Use it only in this particular project <br/> 
@@ -56,7 +70,7 @@
 
 <h4>▶Uninstall Dependency</h4>
 <ol>
-<li>By NPM - Type <strong>npm uninstall</strong>pacakage_name </li>
+<li>By NPM - Type <strong>npm uninstall</strong> package_name </li>
 <li>Manual<br/> 
     <p>1. First delete node_modules folder</p>
     <p>2. Second delete package-lock.json file</p>
@@ -64,17 +78,6 @@
 </li>
 </ol>
 
-<h4>▶package.json</h4>
-<p>This is a manifest file (stores important info about project/package)</p>
 
-<h5>Creation - Manual</h5>
-<p>Create a file with name "package.json" in the root,
-create properties etc</p>
-
-<h5>Creation - By NPM</h5>
-<ol>
-<li><strong>npm init</strong> = ( step by step, press enter to skip)</li>
-<li><strong>npm init -y</strong> = ( everything default ) </li>
-<ol>
 
 
