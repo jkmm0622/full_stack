@@ -42,11 +42,14 @@
 <p>Check Version - Type <strong>npm --v</strong> </p>
 <h4>▶Dependency</h4>
 <ul>
-<li> Local - Use it only in this particular project <br/> 
-<p><strong>npm i</strong> package_name </p> 
+<li> Local(dependencies) - Use it only in this particular project <br/> 
+<p><strong>npm i/install</strong> package_name - install package & save in <strong>dependencies</strong>  in package.json</p> 
+</li>
+<li> Local(devDependencies) - Use it only in this particular project <br/> 
+<p><strong>npm i/install</strong> package_name <strong>--save-dev</strong> - install package & save in <strong>devDependencies</strong>  in package.json</p> 
 </li>
 <li> Global - Use it in any project <br/>
-<p><strong>npm install -g </strong>package_name </p>
+<p><strong>npm i/install -g </strong>package_name </p>
 </li>
 </ul>
 
