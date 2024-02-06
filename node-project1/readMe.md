@@ -49,4 +49,17 @@
 </li>
 </ul>
 
+<h4>package.json</h4>
+<p>This is a manifest file (stores important info about project/package)</p>
+
+<h5>Creation - Manual</h5>
+<p>Create a file with name "package.json" in the root,
+create properties etc</p>
+
+<h5>Creation - By NPM</h5>
+<ol>
+<li>npm init = ( step by step, press enter to skip)</li>
+<li>npm init -y = ( everything default ) </li>
+<ol>
+
 
