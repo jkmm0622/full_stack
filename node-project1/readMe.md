@@ -42,10 +42,11 @@
 <p>Check Version - Type <strong>npm --v</strong> </p>
 <h4>▶Dependency</h4>
 <ul>
-<li> Local - Use it only in this particular project <br/> <p>npm i package_name </p> 
+<li> Local - Use it only in this particular project <br/> 
+<p><strong>npm i</strong> package_name </p> 
 </li>
 <li> Global - Use it in any project <br/>
-<p>npm install -g package_name </p>
+<p><strong>npm install -g </strong>package_name </p>
 </li>
 </ul>
 
@@ -58,8 +59,8 @@ create properties etc</p>
 
 <h5>▶Creation - By NPM</h5>
 <ol>
-<li>npm init = ( step by step, press enter to skip)</li>
-<li>npm init -y = ( everything default ) </li>
+<li><strong>npm init</strong> = ( step by step, press enter to skip)</li>
+<li><strong>npm init -y</strong> = ( everything default ) </li>
 <ol>
 
 
