@@ -43,11 +43,11 @@
 <p>Dependency</p>
 <ul>
 <l1> Local - Use it only in this particular project <br/>
-     <p>npm i package_name </p>
+     <!-- <p>npm i package_name </p> -->
 </li>
 
-<l1> Global - Use it in any project <br/>
-    <p>npm install -g package_name </p>
+<l1> Global - Use it in any project 
+    <!-- <p>npm install -g package_name </p> -->
 </li>
 </ul>
 
