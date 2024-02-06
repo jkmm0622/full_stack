@@ -53,7 +53,7 @@ create properties etc</p>
 <ol>
 <li><strong>npm init</strong> = ( step by step, press enter to skip)</li>
 <li><strong>npm init -y</strong> = ( everything default ) </li>
-<ol>
+</ol>
 
 <h4>▶Install Dependency</h4>
 <ul>
