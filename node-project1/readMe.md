@@ -49,7 +49,7 @@
 </li>
 </ul>
 
-<h4>package.json</h4>
+<h4>▶package.json</h4>
 <p>This is a manifest file (stores important info about project/package)</p>
 
 <h5>Creation - Manual</h5>
