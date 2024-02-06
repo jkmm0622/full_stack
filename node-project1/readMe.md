@@ -43,10 +43,10 @@
 <h4>▶Dependency</h4>
 <ul>
 <li><strong>Local(dependencies)</strong> - Use it only in this particular project <br/> 
-<p><strong>npm i/install</strong> package_name - install package & save in <strong>dependencies</strong>  in package.json</p> 
+<p><strong>npm i/install</strong> package_name = install package & save in <strong>dependencies</strong>  in package.json</p> 
 </li>
 <li><strong>Local(devDependencies)</strong> - Use it only in this particular project <br/> 
-<p><strong>npm i/install</strong> package_name <strong>--save-dev</strong> - install package & save in <strong>devDependencies</strong>  in package.json</p> 
+<p><strong>npm i/install</strong> package_name <strong>--save-dev</strong> = install package & save in <strong>devDependencies</strong>  in package.json</p> 
 </li>
 <li><strong>Global</strong> - Use it in any project <br/>
 <p><strong>npm i/install -g </strong>package_name </p>
