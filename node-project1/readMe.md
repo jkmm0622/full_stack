@@ -90,6 +90,19 @@ create properties etc</p>
 
 <h3>⭕ Events in NodeJs</h3> <br />
 
+<h4>Emitter Event</h4>
+
+<p>Module Required : events </p>
+<p>This module returns a class, for using we need to create object of the class</p>
+
+<h5>Method in this class includes followig:</h5>
+
+<ol>
+<li>on - listen for an event</li>
+<li>emit - emit an event</li>
+</ol>
+
+<p>Note : Always register/listen first before emit</p>
 
 
 
