@@ -104,6 +104,8 @@ create properties etc</p>
 
 <p>Note : Always register/listen first before emit</p>
 
+<h3>⭕ Streams </h3> <br />
+
 
 
 
