@@ -13,6 +13,12 @@ const server = http.createServer((req,res)=>{
         return;
     }
 
+    if(req.url === '/user'){
+        res.setHeader('Content-Type', 'application/json');
+        res.end(JSON.stringify({ name : "Jitendta" }));
+        return;
+    }
+
     // Default
     res.end(`<h1>Oops!</h1>
     <p>We can't seem to find the page you are looking for</p>

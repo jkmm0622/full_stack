@@ -78,6 +78,17 @@ create properties etc</p>
 </li>
 </ol>
 
+<h3>⭕ Event Loop</h3> <br />
+<p>The event loop is what allows Node.js to perform non-blocking I/O operations — despite the fact that JavaScript is single-threaded — by offloading operations to the system kernel whenever possible.</p>
+
+<ol>
+<li>Read/Write File Async</li>
+<li>setTimeout Function</li>
+<li>setInterval Function</li>
+<li>NodeJs server</li>
+</ol>
+
+
 
 
 
